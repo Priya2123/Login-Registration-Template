@@ -1,0 +1,29 @@
+body{
+
+  background: url("pexels-photo-531880.jpg");
+  background-size: cover;
+
+}
+a{
+  color: yellowgreen;
+  font-family: Tahoma, Geneva, sans-serif;
+  margin-left: 30px;
+}
+.congo{
+  background: rgba(44,64,88,0.7);
+  padding:40px;
+  width: 250px;
+  margin: auto;
+
+  margin-top: 120px;
+  height: 200px;
+  margin-left: auto;
+
+}
+h2{
+  margin-top: 20px;
+  margin-left: 10px;
+}
+a:hover{
+  color: blue;
+}
